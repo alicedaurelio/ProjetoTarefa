@@ -4,6 +4,12 @@ Este projeto permite que você “carregue” suas tarefas diária/semanal pesso
 
 Criamos este projeto para exigência referente ao trabalho de qualificação do curso superior de tecnologia em Análise  e Desenvolvimento de Sistemas da Faculdade de Tecnologia de Santana de Parnaíba, sob orientação do Prof. Caio Malherios, para a matéria de Laboratório de Banco de Dados, 4º semestre.
 
+# Tecnologia
+
+Para criação deste projeto utilizamos Visual Studio 2019 com a linguagem C#. 
+Para que possamos criar a interface utilizamos Windows Forms dentro do próprio Visual Studio 2019.
+Para armazenamentos dos dados utilizamos o Gerenciador de Banco de Dados MySql.
+
 # Capturas de tela
 
 Tela inicial
