@@ -1,6 +1,6 @@
 # Projeto Tarefa
 
-Este projeto permite que você “carregue” suas tarefas diária/semanal da organização. A ideia é agrupar itens em lista.,
+Este projeto permite que você “carregue” suas tarefas diária/semanal pessoal ou da sua organização. A ideia é agrupar itens em lista.
 
 Criamos este projeto para exigência referente ao trabalho de qualificação do curso superior de tecnologia em Análise  e Desenvolvimento de Sistemas da Faculdade de Tecnologia de Santana de Parnaíba, sob orientação do Prof. Caio Malherios, para a matéria de Laboratório de Banco de Dados, 4º semestre.
 
