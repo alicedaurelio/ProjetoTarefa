@@ -1,1 +1,29 @@
-# ProjetoTarefa-Alice-Andressa-Arlene
+# Projeto Tarefa
+
+Este projeto permite que você “carregue” suas tarefas diária/semanal da organização. A ideia é agrupar itens em lista.
+
+# Capturas de tela
+
+Tela inicial
+
+![telainicial](https://user-images.githubusercontent.com/86382764/162495158-5837c8a5-c325-45fe-a92a-8ca9ed4d51e5.PNG)
+
+Tela secundária
+
+![telasecundaria](https://user-images.githubusercontent.com/86382764/162495176-880294d8-6fc5-424c-aa2c-4f198ea34f6f.PNG)
+
+
+
+# Como usar:
+
+Abra o executável, ao abrir aparecerá a tela inicial
+ - Clicando em "Adicionar tarefa"
+
+Abrirá uma nova guia para que você possa inserir a sua tarefa. Onde irá pedir as seguintes tarefas:
+
+- Título da tarefa
+- Assunto da qual se trata a tarefa
+- Definir a data 
+- Status  
+-     O status seria qual o grau de importância daquela tarefa, se a tarefa na qual você adicionou é de nivel baixo, médio ou alta (que seria urgente)
+
