@@ -17,7 +17,7 @@ Tela secundária
 # Como usar:
 
 Abra o executável, ao abrir aparecerá a tela inicial
- - Clicando em "Adicionar tarefa"
+ - Clicando em "Adicionar uma tarefa"
 
 Abrirá uma nova guia para que você possa inserir a sua tarefa. Onde irá pedir as seguintes tarefas:
 
