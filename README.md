@@ -6,9 +6,9 @@ Criamos este projeto para exigência referente ao trabalho de qualificação do 
 
 # Tecnologia
 
-Para criação deste projeto utilizamos Visual Studio 2019 com a linguagem C#. 
-Para que possamos criar a interface utilizamos Windows Forms dentro do próprio Visual Studio 2019.
-Para armazenamentos dos dados utilizamos o Gerenciador de Banco de Dados MySql.
+- Para criação deste projeto utilizamos Visual Studio 2019 com a linguagem C#. 
+- Para que possamos criar a interface utilizamos Windows Forms dentro do próprio Visual Studio 2019.
+- Para armazenamentos dos dados utilizamos o Gerenciador de Banco de Dados MySql.
 
 # Capturas de tela
 
