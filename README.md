@@ -31,7 +31,7 @@ Abrirá uma nova guia para que você possa inserir a sua tarefa. Onde irá pedir
 
 Após isso basta clicar no botão Adicionar
 
-Com uma tarefa criada, você tem a possibilidade de Editar ou Deletar a tarefa que você quiser.
+Com uma tarefa criada será exibida na aba "Tarefas adicionadas" onde você tem a possibilidade de Editar ou Deletar a tarefa que você quiser.
 
 # Espero que tenha gostado!
 
