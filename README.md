@@ -25,5 +25,17 @@ Abrirá uma nova guia para que você possa inserir a sua tarefa. Onde irá pedir
 - Assunto da qual se trata a tarefa
 - Definir a data 
 - Status  
--     O status seria qual o grau de importância daquela tarefa, se a tarefa na qual você adicionou é de nivel baixo, médio ou alta (que seria urgente)
+-  O status seria qual o grau de importância daquela tarefa, se a tarefa na qual você adicionou é de nivel baixo, médio ou alta (que seria urgente)
+
+Após isso basta clicar no botão Adicionar
+
+Com uma tarefa criada, você tem a possibilidade de Editar ou Deletar a tarefa que você quiser.
+
+# Espero que tenha gostado!
+
+# Projeto criado por:
+
+Alice Daurelio 
+Andressa Cristina
+Arlene Cardoso
 
