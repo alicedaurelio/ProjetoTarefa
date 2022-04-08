@@ -21,7 +21,7 @@ Tela secundária
 Abra o executável, ao abrir aparecerá a tela inicial
  - Clicando em "Adicionar uma tarefa"
 
-Abrirá uma nova guia para que você possa inserir a sua tarefa. Onde irá pedir as seguintes tarefas:
+Abrirá uma nova guia para que você possa inserir a sua tarefa. Onde irá pedir as seguintes informações:
 
 - Título da tarefa
 - Assunto da qual se trata a tarefa
